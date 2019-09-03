@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/pypi/pyversions/Flask)
-![Coverage](coverage.svg)
+![Coverage](htmlcov/coverage.svg)
 # Flask API
 ### With TDD and BDD
 
